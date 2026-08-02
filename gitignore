@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+
+# Serialized data file (generated at runtime)
+system_data.ser
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+out/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
