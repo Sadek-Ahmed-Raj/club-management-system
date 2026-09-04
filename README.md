@@ -46,10 +46,10 @@ Real-world entities like `Student` and `Club` have clear attributes and distinct
 
 | Name | Student ID | Assigned Part |
 |:---|:---:|:---|
+| **Md. Sadek Ahmed Raj** | `251-15-511` | OOP Concepts & Relationships |
 | **Toukir Ahmed** | `251-15-216` | Problem Definition |
 | **Md Sadhin Foraji** | `251-15-586` | Class Identification, Attributes & Methods |
 | **MD. Kaium Hossain Riyad** | `251-15-604` | UML Class Diagram |
-| **Md. Sadek Ahmed Raj** | `251-15-511` | OOP Concepts & Relationships |
 | **Md. Saif Uddin Mahmud** | `251-15-689` | Java Coding Solution & Conclusion |
 
 </div>
